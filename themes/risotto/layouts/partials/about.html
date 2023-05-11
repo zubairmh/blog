@@ -7,8 +7,10 @@
 {{ end }}
 
 <ul class="aside__social-links">
+    <h2>Socials</h2>
     {{ range $item := .Site.Params.socialLinks }}
     <li>
+        <span>{{ $item.title }}</span>
         <a href="{{ $item.url }}" rel="me" aria-label="{{ $item.title }}" title="{{ $item.title }}"><i class="{{ $item.icon }}" aria-hidden="true"></i></a>&nbsp;
     </li>
     {{ end }}

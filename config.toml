@@ -4,5 +4,15 @@ title = 'Zubair Mohammed'
 theme = 'risotto'
 sectionPagesMenu = "main"
 
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/zubairmh/"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:mail@zubairmh.xyz"
+
 [markup.goldmark.renderer]
 unsafe = true
