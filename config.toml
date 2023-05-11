@@ -1,0 +1,8 @@
+baseURL = 'https://www.zubairmh.xyz/'
+languageCode = 'en-us'
+title = 'Zubair Mohammed'
+theme = 'risotto'
+sectionPagesMenu = "main"
+
+[markup.goldmark.renderer]
+unsafe = true
