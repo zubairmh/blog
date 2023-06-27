@@ -27,4 +27,4 @@ This project was everything we envisioned to do in the first hackathon, a comple
 
 
 ## Status
-We await the results, as of May 11th
+We were the [winning team](https://twitter.com/BitByte_IIITDMJ/status/1666048473861611520) at HackByte23

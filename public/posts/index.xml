@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zubair Mohammed</title>
+    <link>https://www.zubairmh.xyz/posts/</link>
+    <description>Recent content in Posts on Zubair Mohammed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2023 19:18:05 +0530</lastBuildDate><atom:link href="https://www.zubairmh.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HackByte Devlog</title>
+      <link>https://www.zubairmh.xyz/posts/second/</link>
+      <pubDate>Thu, 11 May 2023 19:18:05 +0530</pubDate>
+      
+      <guid>https://www.zubairmh.xyz/posts/second/</guid>
+      <description>Intro HackByte was our second hackathon, we participated as team &amp;ldquo;ggbois&amp;rdquo; comprising of:
+Zubair Mohammed (me) Parag Goyal (dr manager) Rachancheet Singh Kohli (aka Mr. Data Scientist) Reetinder Singh (codename sleepercell) ggbois sounded good, so we kept it in as a brand
+The Project Introducing Nord, A concrete, privacy first streaming platform that doesn&amp;rsquo;t sell you for your data. Nord never collects any user data from its consumer(even their real name) and implies web3 authentication to maintain sessions and billing.</description>
+    </item>
+    
+    <item>
+      <title>Makeathon5 Devlog</title>
+      <link>https://www.zubairmh.xyz/posts/my-first-post/</link>
+      <pubDate>Tue, 09 May 2023 11:31:29 +0530</pubDate>
+      
+      <guid>https://www.zubairmh.xyz/posts/my-first-post/</guid>
+      <description>Intro Makeathon5 was our first hackathon, we participated as team &amp;ldquo;slimydudes&amp;rdquo; comprising of:
+Zubair Mohammed (me) Parag Goyal Rachancheet Singh Kohli Reetinder Singh This was the first time we actually took an initiative to go to an offline event, I believe it was worth the time Makeathon trained us to develop projects as a team.
+The Project We went in overambitious, planned to make a whole decentralized social media platform for travellers.</description>
+    </item>
+    
+  </channel>
+</rss>

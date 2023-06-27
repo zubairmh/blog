@@ -8,10 +8,43 @@ draft: false
 <img style="border-radius:100%; border: 2px solid white" src="https://avatars.githubusercontent.com/u/116816535?v=4"/>
 </div>
 
+## 🎓 College Experience 🎓
 
-# 🔥 This week I learnt 🔥
+I am currently pursuing my undergraduate degree in Computer Science at TIET. Throughout my college journey, I have been exposed to a wide range of computer science concepts and have honed my skills in various programming languages and technologies. My education has provided a solid foundation for my career as a software developer.
 
-- Writing Sockets in rust
-- Developing a file share client following IRC protocol
-- GStreamer for video transcoding
+## 👨‍💻 Interests 👨‍💻
+
+- Low Level Graphic APIs: I have a keen interest in working with low-level graphic APIs like Vulkan and OpenGL. The ability to optimize graphics rendering and create visually stunning applications fascinates me.
+
+- Distributed Systems: I am intrigued by the challenges and complexities of building distributed systems. Technologies such as Kafka and gRPC have caught my attention, and I enjoy exploring their capabilities and learning how to design scalable and efficient systems.
+
+## 🧑‍💼 Work Experience
+
+- Coding Ninjas Campus Ambassador: As a campus ambassador for Coding Ninjas, I organized coding events, workshops, and seminars to promote coding culture among students. It was an opportunity to enhance my leadership and communication skills.
+
+- MLSC Tech Team Member: As a member of the Tech Team at the Machine Learning and Coding Society, I actively contributed to organizing coding competitions, conducting technical workshops, and mentoring fellow students.
+
+## 🚀 Projects 🚀 
+
+Here are some notable projects I have worked on:
+
+- Nord: Nord is a decentralized and privacy-first streaming platform. I contributed to its development, focusing on backend functionality and ensuring secure and seamless streaming experiences for users. [demo](nordweb.vercel.app)
+
+- Invntry: Invntry is a modern web-based hospital logistics software. I played a key role in designing and developing the software, implementing features that streamline hospital operations and improve efficiency. [source](github.com/zubairmh/mhacks15)
+
+- DocShield: DocShield is a decentralized personal document holder. I contributed to the project's architecture, ensuring secure document storage, access controls, and seamless user experience. [demo](docshield.vercel.app)
+
+## 🎖️ Certifications 🎖️
+
+I have acquired the following certifications:
+
+- Data Science with Python: This certification was awarded by TIET, validating my proficiency in data science concepts and programming using Python.
+
+- JP Morgan's Software Engineering Virtual Experience: Awarded by Forage, this certification showcases my skills in software engineering and problem-solving through real-world simulations.
+
+## 📱 Contact Me 📱
+
+Thank you for visiting my portfolio! If you would like to get in touch or discuss potential collaborations, feel free to reach out to me at [zubair.mh@protonmail.com](mailto:zubair.mh@protonmail.com) Let's connect and create something amazing together!
+
+
 
