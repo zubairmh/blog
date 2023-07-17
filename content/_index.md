@@ -14,25 +14,27 @@ I am currently pursuing my undergraduate degree in Computer Science at TIET. Thr
 
 ## 👨‍💻 Interests 👨‍💻
 
-- Low Level Graphic APIs: I have a keen interest in working with low-level graphic APIs like Vulkan and OpenGL. The ability to optimize graphics rendering and create visually stunning applications fascinates me.
+- 🎮 Low Level Graphic APIs: I have a keen interest in working with low-level graphic APIs like Vulkan and OpenGL. The ability to optimize graphics rendering and create visually stunning applications fascinates me.
 
-- Distributed Systems: I am intrigued by the challenges and complexities of building distributed systems. Technologies such as Kafka and gRPC have caught my attention, and I enjoy exploring their capabilities and learning how to design scalable and efficient systems.
+- 🌐 Distributed Systems: I am intrigued by the challenges and complexities of building distributed systems. Technologies such as Kafka and gRPC have caught my attention, and I enjoy exploring their capabilities and learning how to design scalable and efficient systems. 
 
 ## 🧑‍💼 Work Experience
 
 - Coding Ninjas Campus Ambassador: As a campus ambassador for Coding Ninjas, I organized coding events, workshops, and seminars to promote coding culture among students. It was an opportunity to enhance my leadership and communication skills.
 
-- MLSC Tech Team Member: As a member of the Tech Team at the Machine Learning and Coding Society, I actively contributed to organizing coding competitions, conducting technical workshops, and mentoring fellow students.
+- Tech Head @ MLSC: As the Technical Head at Microsoft Learn Student Chapter, I actively contributed to organizing coding competitions, conducting technical workshops, and mentoring fellow students.
 
 ## 🚀 Projects 🚀 
 
 Here are some notable projects I have worked on:
 
-- Nord: Nord is a decentralized and privacy-first streaming platform. I contributed to its development, focusing on backend functionality and ensuring secure and seamless streaming experiences for users. [demo](nordweb.vercel.app)
+- 🎥 Nord: Nord is a decentralized and privacy-first streaming platform. I contributed to its development, focusing on backend functionality and ensuring secure and seamless streaming experiences for users. [demo](nordweb.vercel.app)
 
-- Invntry: Invntry is a modern web-based hospital logistics software. I played a key role in designing and developing the software, implementing features that streamline hospital operations and improve efficiency. [source](github.com/zubairmh/mhacks15)
+- 🏥 Invntry: Invntry is a modern web-based hospital logistics software. I played a key role in designing and developing the software, implementing features that streamline hospital operations and improve efficiency. [source](github.com/zubairmh/mhacks15)
 
-- DocShield: DocShield is a decentralized personal document holder. I contributed to the project's architecture, ensuring secure document storage, access controls, and seamless user experience. [demo](docshield.vercel.app)
+- 🔐 DocShield: DocShield is a decentralized personal document holder. I contributed to the project's architecture, ensuring secure document storage, access controls, and a seamless user experience. [demo](docshield.vercel.app)
+
+- 💰 BountyLabs: BountyLabs is a decentralized bounty hunting platform, where users are rewarded with Ethereum for solving bugs and completing bounties in open-source projects. [demo](https://bountylabs.zubairmh.xyz) 
 
 ## 🎖️ Certifications 🎖️
 
@@ -44,7 +46,9 @@ I have acquired the following certifications:
 
 ## 📱 Contact Me 📱
 
-Thank you for visiting my portfolio! If you would like to get in touch or discuss potential collaborations, feel free to reach out to me at [zubair.mh@protonmail.com](mailto:zubair.mh@protonmail.com) Let's connect and create something amazing together!
+Thank you for visiting my portfolio! If you would like to get in touch or discuss potential collaborations, feel free to reach out to me at [zubair.mh@protonmail.com](mailto:zubair.mh@protonmail.com) 
+
+Let's connect and create something amazing together!
 
 
 
