@@ -48,6 +48,27 @@ I have acquired the following certifications:
 
 Thank you for visiting my portfolio! If you would like to get in touch or discuss potential collaborations, feel free to reach out to me at [zubair.mh@protonmail.com](mailto:zubair.mh@protonmail.com) 
 
+
+<script>
+  (function (w, d, s, o, f, js, fjs) {
+    w["botsonic_widget"] = o;
+    w[o] =
+      w[o] ||
+      function () {
+        (w[o].q = w[o].q || []).push(arguments);
+      };
+    (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+    js.id = o;
+    js.src = f;
+    js.async = 1;
+    fjs.parentNode.insertBefore(js, fjs);
+  })(window, document, "script", "Botsonic", "http://localhost:3031/CDN/botsonic.min.js");
+  Botsonic("init", {
+    serviceBaseUrl: "http://127.0.0.1:8082",
+    token: "174c07cd-cbff-4fa5-bb86-06553af7e582",
+  });
+</script>
+
 Let's connect and create something amazing together!
 
 
