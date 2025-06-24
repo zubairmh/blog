@@ -48,7 +48,6 @@ I have acquired the following certifications:
 
 Thank you for visiting my portfolio! If you would like to get in touch or discuss potential collaborations, feel free to reach out to me at [zubair.mh@protonmail.com](mailto:zubair.mh@protonmail.com) 
 
-
 <script>
   (function (w, d, s, o, f, js, fjs) {
     w["botsonic_widget"] = o;
@@ -62,10 +61,10 @@ Thank you for visiting my portfolio! If you would like to get in touch or discus
     js.src = f;
     js.async = 1;
     fjs.parentNode.insertBefore(js, fjs);
-  })(window, document, "script", "Botsonic", "http://localhost:3031/CDN/botsonic.min.js");
+  })(window, document, "script", "Botsonic", "https://staging-widget.writesonic.com/CDN/botsonic.min.js");
   Botsonic("init", {
-    serviceBaseUrl: "http://127.0.0.1:8082",
-    token: "174c07cd-cbff-4fa5-bb86-06553af7e582",
+    serviceBaseUrl: "https://api-staging-azure.botsonic.dev",
+    token: "0cf3b6bb-1fe2-4430-883d-aca6970448ce",
   });
 </script>
 
