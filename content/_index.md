@@ -9,7 +9,7 @@ draft: false
 <script id="wsAiSeoInitScript">
   wsSEOfixer.configure({
     hostURL: 'https://wsstgpreprdwritesonic01.blob.core.windows.net',
-    siteID: '68627b6bc2befa4c02d1c17b'
+    siteID: '68661f2d0fa25fcd2ae3af80'
   });
 </script>
 
