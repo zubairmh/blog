@@ -4,6 +4,15 @@ date: 2023-05-09T11:40:12+05:30
 draft: false
 ---
 
+
+<script src="https://wsstgpreprdwritesonic01.blob.core.windows.net/site-audit/fixer-script/index.js" id="wsAiSeoMb" type="application/javascript"></script>
+<script id="wsAiSeoInitScript">
+  wsSEOfixer.configure({
+    hostURL: 'https://wsstgpreprdwritesonic01.blob.core.windows.net',
+    siteID: '68627b6bc2befa4c02d1c17b'
+  });
+</script>
+
 <div align="center">
 <img style="border-radius:100%; border: 2px solid white" src="https://avatars.githubusercontent.com/u/116816535?v=4"/>
 </div>
