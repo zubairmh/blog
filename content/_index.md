@@ -14,7 +14,7 @@ draft: false
 </script>
 
 <div align="center">
-<img alt="Main content of the hCaptcha challenge" style="border-radius:100%; border: 2px solid white" src="https://avatars.githubusercontent.com/u/116816535?v=4"/>
+<img test="Captcha challenge" alt="Main content of the hCaptcha challenge" style="border-radius:100%; border: 2px solid white" src="https://avatars.githubusercontent.com/u/116816535?v=4"/>
 </div>
 
 ## 🎓 College Experience 🎓
